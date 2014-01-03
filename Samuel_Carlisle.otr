@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# See README.rst on how to cryptographically verify this file.
+#
+# This file is not the ideal solution; I am looking into enabling GPG
+to export
+# subkeys as OTR keys, so that I can have this validity certificate
+embedded in
+# my PGP key instead, using actual revocable certification signatures.
+#
+# Fingerprint                                   Status  Protocol    UID
+16BEC955 85706A86 B63D366A 7D09B14B A9E78A6D    OK XMPP
+samthetechie@jabber.ccc.de
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org/
+
+iQEcBAEBAgAGBQJSxs3fAAoJEB1XopdUgoyqjnoIAL5kJ1GwjbXOVlwmFjYXNts7
+jHLs01oZAFIWT6K6fqYqG0iI7hNUgOSIZI9K9gHp+zImaIGwY9y/HXjl+UzbgsFB
+3WQ/F6Cx1RLID36A/nyXJyS7QJJxI5qvZFeksrBPbIIgSwdu+iZwLoVhedHT/Z1D
+Ieshzt/d8hgY/a2zD0GYfpZaWtbYeKNNTevh+yxIgQziZOGGJ6GjURJuk0yfbHBX
+fCZL8LZSbe9WZU2xmOKVUVKjaKK3I+u1s4DzHDQcpAmlzmCfCMnGj1ZQuut4RbHS
+ENZ6eQ9smV9A4590pbqWagjUb/lMeXfW69DivfnssgTMNpO9CCgGqnaSkvpzK5Y=
+=q4R7
+-----END PGP SIGNATURE-----
